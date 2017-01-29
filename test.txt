@@ -1,4 +1,11 @@
 test
 test2
 test for branch 2
+<<<<<<< HEAD
 test for branch 3
+=======
+testing to commit to master
+changes after protected
+new test
+and again
+>>>>>>> refs/remotes/origin/master
