@@ -6,3 +6,4 @@ changes after protected
 new test
 and again
 time to pull request
+new line
