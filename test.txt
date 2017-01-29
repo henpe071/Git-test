@@ -3,3 +3,4 @@ test2
 test for branch 2
 testing to commit to master
 changes after protected
+new test
