@@ -8,8 +8,5 @@ and again
 time to pull request
 new line
 in master add new line
-<<<<<<< HEAD
 laptop
-=======
-pc
->>>>>>> refs/remotes/origin/master
+
